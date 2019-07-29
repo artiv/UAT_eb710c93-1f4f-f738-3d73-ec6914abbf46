@@ -1,0 +1,167 @@
+{
+	"fileName": "de_myTemplate.q6a",
+	"fileTemplate": {
+		"fileTemplateGeneral": {
+			"fileTemplateGuid": "a0d0eb91-a98d-22f9-69fc-8a82eff301b5",
+			"fileTemplateDate": "2019-07-29T06:52:30.661Z",
+			"fileTemplateCollections": [
+				"FhRj4d2hwCtf7uXTo"
+			],
+			"fileTemplateCollectionsForTranslation": [
+				"FhRj4d2hwCtf7uXTo"
+			]
+		},
+		"fileTemplateLanguage": {
+			"primaryLanguage": "bQDyz7oeiQ9nMguF6",
+			"possibleLanguages": [
+				"KHW5qGuD9v2QAEREf",
+				"b5Rogy97xejkfoBAE",
+				"AxkzjFbjgrtTC3GxC"
+			]
+		},
+		"fileTemplateStructure": {
+			"fileTemplateGenerics": [],
+			"fileTemplateFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "cf4156ce-de86-33e2-acf4-040b76d1573c",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"FhRj4d2hwCtf7uXTo"
+						],
+						"fieldIsEditableCollections": [
+							"FhRj4d2hwCtf7uXTo"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Bitte hochladen:  Video Aufnahme",
+						"fieldKey": "Video Aufnahme",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "fa2fed5e-c62a-d882-e797-8c18f0dee611",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"FhRj4d2hwCtf7uXTo"
+						],
+						"fieldIsEditableCollections": [
+							"FhRj4d2hwCtf7uXTo"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Bitte hochladen:  Audio Aufnahme",
+						"fieldKey": "Audio Aufnahme",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "27c57771-da93-6be0-67cc-2dd4b72b5828",
+						"fieldType": "fieldImage",
+						"fieldIsVisibleCollections": [
+							"FhRj4d2hwCtf7uXTo"
+						],
+						"fieldIsEditableCollections": [
+							"FhRj4d2hwCtf7uXTo"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Bitte hochladen:  Bild",
+						"fieldKey": "Bild",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "b8ff781d-b7e8-18ff-6364-75a58db6180a",
+						"fieldType": "fieldTextbox",
+						"fieldIsVisibleCollections": [
+							"FhRj4d2hwCtf7uXTo"
+						],
+						"fieldIsEditableCollections": [
+							"FhRj4d2hwCtf7uXTo"
+						],
+						"fieldIsRequiredCollections": [],
+						"fieldIsMultipleCollections": []
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Bitte hochladen:  Textinhalt",
+						"fieldKey": "Textinhalt",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileTemplatePublish": {
+			"fileTemplateTypes": []
+		}
+	}
+}
